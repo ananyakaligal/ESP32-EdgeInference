@@ -4,11 +4,7 @@ This project involves building a machine learning classification model to detect
 
 ## Steps to Build and Deploy (Summary)
 
-1. **Dataset Selection**: 
-   - Selected the Phishing Website dataset.
-   - Logged the dataset in the provided Excel sheet per course guidelines.
-
-2. **Preprocessing & Model Training**:
+1. **Preprocessing & Model Training**:
    - Loaded and cleaned data with Pandas.
    - Split data into training, testing, and validation sets.
    - Built and trained a neural network model using TensorFlow/Keras.
