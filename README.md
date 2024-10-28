@@ -1,9 +1,9 @@
 # Phishing Website Classification Model on ESP32
 
-This project involves building a MultiLayered Perceptron classification model to detect phishing websites using the **Phishing Website** dataset from the UC Irvine ML Repository. The trained model is converted to TensorFlow Lite (TFLite) format and ported to an ESP32 microcontroller for edge inference.
+This project involves building a machine learning classification model to detect phishing websites using the [**Phishing Website**](https://archive.ics.uci.edu/dataset/327/phishing+websites) dataset from the UC Irvine ML Repository. The trained model is converted to TensorFlow Lite (TFLite) format and ported to an ESP32 microcontroller for edge inference.
 
 ## Project Overview
-- **Dataset**: Phishing Website dataset from UC Irvine ML Library
+- **Dataset**: [Phishing Website dataset from UC Irvine ML Library](https://archive.ics.uci.edu/dataset/327/phishing+websites)
 - **Objective**: Classify websites as "phishing" or "legitimate"
 - **Deployment**: TFLite model on ESP32 for real-time phishing detection
 
@@ -34,5 +34,4 @@ This project involves building a MultiLayered Perceptron classification model to
 ## Tools and Libraries
 - **Python**: TensorFlow, Keras, Pandas, NumPy
 - **Microcontroller Libraries**: TensorFlow Lite Micro for ESP32
-- **Dataset**: Phishing Website dataset from UC Irvine ML Repository
-
+- **Dataset**: [Phishing Website dataset from UC Irvine ML Repository](https://archive.ics.uci.edu/dataset/327/phishing+websites)
